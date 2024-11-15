@@ -1,0 +1,9 @@
+powake_impl.c
+setup.py
+powake/powake_loader.pyc
+powake.egg-info/PKG-INFO
+powake.egg-info/SOURCES.txt
+powake.egg-info/dependency_links.txt
+powake.egg-info/top_level.txt
+powakes/powake.py
+powakes/powake_loader.pyc
